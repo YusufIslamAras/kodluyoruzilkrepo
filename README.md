@@ -11,3 +11,6 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitimi kapsamında açt
 
 ```bash
 git clone https://github.com/<kullaniciAdin>/kodluyoruzilkrepo.git
+
+
+![Proje Görseli](Ekran görüntüsü 2025-10-24 150724)
